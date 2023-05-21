@@ -1,0 +1,67 @@
+.navigation-container{
+ 			z-index:200;
+            width:100%;
+            background-color:rgba(0,0,0,0.64);
+            height:15mm;
+        } 
+        .courses{
+            padding-left:160mm;
+        }
+        ul{
+           margin:0;
+            padding:3mm;
+            list-style: none;
+            display:flex;
+            flex-direction: row;
+            color:white;
+        }
+        .first-child{
+            margin: 0 120mm 0 10mm;
+            background-color:rgba(0,0,0,0.6);
+        }
+        li{
+            padding:2mm 3mm;
+            margin-left: 16mm;
+        }
+        
+        .classes{
+            background-color:rgba(0,0,0,0.6);
+            padding:2mm 3mm ;
+        }
+        .navigation-container ul li:hover{
+            background-color:rgba(0,0,0,0.6) ;
+        }
+        .sub-menu{
+            display:none;
+        }
+        .navigation-container ul li:hover .sub-menu{
+            display: block;
+            position:absolute;
+            background-color:rgba(0,0,0,0.64);
+        }
+        a{
+        text-decoration:none;
+        color:white;
+       }
+       div{
+       margin:0;
+       }
+       .sub-navigation{
+       display:none;
+       }
+       .navigation li:hover .sub-navigation{
+       		position:absolute;
+       		display:block;
+       		background-color:rgba(0,0,0,0.8);
+       		margin:2mm 0 0 3mm;
+       }
+       .sub-navigation li{
+       		padding:2mm 3mm;
+			margin:3mm;
+       }
+            h1{
+	width:100%;
+	padding:5mm 0;
+	margin:0;
+	background-color:lightblue;
+}

@@ -1,0 +1,33 @@
+
+        .body{
+        margin:0;
+            display: grid;
+            grid-template-rows:15mm 25mm 98mm 27mm;
+        }
+        .side-bar,.footer,.sample{
+            position:sticky;
+            z-index:100;
+        }
+      .middle{
+            display:flex;
+        }
+        .navigation-contaniner{
+            width:100%;         
+        }
+        .side-bar{
+            width:30mm;
+       }
+        .container{
+            width:311mm;
+            overflow: auto;   
+            margin:4mm 0 0 0;
+        }
+        .footer{
+            width:100%;       
+        }
+        th,td,tr{
+            border:1px solid;
+        }
+        th,td{
+        padding:5mm;
+        }

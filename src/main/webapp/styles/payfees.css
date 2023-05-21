@@ -1,0 +1,41 @@
+  input[type="text"]{
+		height:8mm;
+		border:solid;
+		border-radius:1mm;
+		margin-left:5mm;
+		padding:1mm 1mm 1mm 3mm;
+		font-size:4mm;
+		width:40mm;
+	}
+	.submit{
+	border-radius:10mm;
+	font-size:5mm;
+	color:white;
+	font-weight:bold;
+	border:solid blue;
+	background-color:lightblue;
+	padding: 1.5mm 5mm;
+		margin :6mm 20mm;	
+	}
+	.name{
+		margin:0 4mm;
+	}
+	.amount{
+	margin:0 0 0 -19mm;
+	}
+	
+	.input_container1{
+		font-size:7mm;
+		margin:20mm 0 0 140mm;
+		line-height:20mm;
+	}
+	
+	
+	.message{
+       		position:absolute;
+       		font-size:5mm;
+       		font-weight:bold;
+       		top:45mm;
+       		left:60mm;
+       		color:blue;
+       }

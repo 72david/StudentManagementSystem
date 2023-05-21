@@ -1,0 +1,11 @@
+.table{
+	margin:0 0 0 60mm;
+	height:90mm;
+	overflow:auto;
+}
+
+td,th,tr{
+margin:0;
+	border: 1px solid;
+	padding:2mm;
+}

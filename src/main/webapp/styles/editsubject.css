@@ -1,0 +1,54 @@
+nav{
+	width:100%;
+	height:10mm;
+}
+	.container{
+	font-size:7mm;
+	display:flex;
+	margin-top:17mm;
+	  margin-left:115mm;
+	}
+		.label{
+		display:flex;
+	}
+	input,.subjectname{
+		height:8mm;
+		border:solid;
+		border-radius:1mm;
+		margin-left:5mm;
+		padding:1mm 1mm 1mm 3mm;
+		font-size:4mm;
+		width:40mm;
+	}
+	 .message{
+       		position:absolute;
+       		font-size:5mm;
+       		font-weight:bold;
+       		top:45mm;
+       		left:60mm;
+       		color:blue;
+       }
+	.input{
+		margin-top:5mm;
+	}
+	.submit{
+	color:white;
+	font-weight:bold;
+	border:solid blue;
+	background-color:lightblue;
+	padding: 1mm 3mm;
+		margin-left:35mm;
+		margin-top:10mm;
+		width:20mm;
+	}
+	.chap{
+		margin-left:14mm;
+	}
+	.back a{
+	color:blue;
+	font-size:7mm;
+	}
+	 .back{
+      	margin:10mm 0 0 240mm;
+      	font-weight:800;
+      }

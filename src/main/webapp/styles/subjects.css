@@ -1,0 +1,38 @@
+        th,td,tr{
+            border:1px solid;
+        }
+        th,td{
+        padding:3mm;
+        }
+        #table{
+        	overflow:auto;
+        	height:80mm;
+        	padding:0 50mm 0 0;	
+        }
+        .side-bar,.bottom{
+        	position:sticky;
+        }
+        .side-bar{
+        	width:55mm;
+      	
+        }
+        .top{
+        	width:100%;
+      	height:8mm;
+      	
+        }
+        .bottom{
+        	width:100%;
+        	height:24mm;	
+        }
+       .container{
+       	display:flex;
+       	height:90mm;
+       	width:100%;
+        }
+        .editsubject{
+        	background-color:rgb(54, 64, 202);
+        	border:none;
+        	font-size:5mm;
+        	font-weight:900;
+        }

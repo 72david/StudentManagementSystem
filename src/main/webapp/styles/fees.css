@@ -1,0 +1,10 @@
+th,td,tr{
+   border:1px solid;
+}
+th,td{
+   padding:5mm;
+}
+.container{
+   margin:18mm 40mm;
+}
+        

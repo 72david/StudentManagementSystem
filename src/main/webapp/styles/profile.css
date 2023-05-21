@@ -1,0 +1,27 @@
+
+	.image{
+	margin:10mm 0 10mm 155mm;
+		width:40mm;
+		height:40mm;
+		border-radius:20mm;
+		background-color:lightblue;
+	}
+	.container{
+		margin:10mm 0 0 60mm;
+		font-size:6mm;	
+		display:flex;
+	}	
+	.datas{
+		 height:8mm;
+		border:solid;
+		border-radius:1mm;
+		margin-left:5mm;
+		padding:1mm;
+		font-size:4mm;
+		width:40mm;
+	}
+	.information{
+		display:flex;
+		margin: 0 0 10mm 0;
+	}
+	

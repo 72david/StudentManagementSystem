@@ -1,0 +1,55 @@
+.heading{
+	background-color:lightblue;
+	margin:0;
+	padding:4mm;
+}
+.text{
+	width:60mm;
+	margin:20mm 0 0 0;
+	font-size:8mm;
+	font-weight:900;
+}
+       .label{
+       	font-size:8mm;
+       }
+       form{
+       		display:flex;
+       		
+       }
+       .sub-form1{
+       	display:block;
+       	line-height:18mm;
+       	margin:30mm 0 0 35mm;
+       }
+       .sub-form2{
+       	display:block;
+       	line-height:18mm;
+       	margin:10mm 0 0 45mm;
+       }
+       input[type="text"]{
+		border:solid;
+		border-radius:1mm;
+		margin-left:5mm;
+		padding:1mm 1mm 1mm 3mm;
+		font-size:4mm;
+		width:40mm;
+	}
+	.submit{
+		border-radius:10mm;
+		font-size:5mm;
+		color:white;
+		font-weight:bold;
+		border:solid blue;
+		background-color:lightblue;
+		padding: 4mm 10mm;
+		margin-top:6mm;
+		
+	}
+	 .message{
+       		position:absolute;
+       		font-size:5mm;
+       		font-weight:bold;
+       		top:45mm;
+       		left:60mm;
+       		color:blue;
+       }
